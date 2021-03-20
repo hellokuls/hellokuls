@@ -15,7 +15,7 @@
        <td valign="top" width="50%">
     
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
+📊 **My personal infomation** 
 
 ```text
 My blog : http://www.kuls6.top
