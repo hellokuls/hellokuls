@@ -12,7 +12,7 @@
 
 - 🔭 I’m a college student and a bloger has 20000 fans.
 - 🌱 I’m currently learning **Java and Algorithms**
-- 📫 How to reach me: ![](http://www.kuls6.top) on Twitter
+- 📫 How to reach me: [My Bloger](http://www.kuls6.top) 
 - ⚡ My wechat ID is LLLLLLS123
 
 <!--START_SECTION:waka-->
