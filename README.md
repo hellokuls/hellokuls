@@ -22,8 +22,6 @@ Java                  11 mins         ██████████▒░░░
 ```
 <!--END_SECTION:waka-->
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hellokuls" alt="vistors" />
-</p>
+![info](https://github-readme-stats.vercel.app/api?username=hellokuls&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 
