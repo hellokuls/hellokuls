@@ -18,9 +18,9 @@
        <td valign="center" width="35%">
     
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 ```text
-No Activity tracked this Week
+Python                15 mins         █████████████▓░░░░░░░░░░░   55.19 % 
+Java                  11 mins         ██████████▒░░░░░░░░░░░░░░   41.65 % 
 ```
 <!--END_SECTION:waka-->
 </td>
