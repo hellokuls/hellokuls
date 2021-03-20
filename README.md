@@ -18,7 +18,9 @@
 📊 **This Week I Spent My Time On** 
 
 ```text
+My blog : http://www.kuls6.top
 
+WeChat official account：Python进击者、Kuls
 
 ```
 ![info](https://github-readme-stats.vercel.app/api?username=hellokuls&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
