@@ -6,7 +6,7 @@
             <p align="center">
               <img src="https://img.shields.io/github/stars/hellokuls?style=social" alt="Github stars" />
               <img src="https://img.shields.io/github/followers/hellokuls?style=social" alt="Github followers" />
-              <img src="https://visitor-badge.glitch.me/badge?page_id=hellokuls" alt="vistors" />
+              <img src="https://visitor-badge.glitch.me/badge?page_id=hellokuls.readme" alt="vistors" />
             </p>
             <ul>
                 <li>🌱 I am a college student and a bloger</li>
