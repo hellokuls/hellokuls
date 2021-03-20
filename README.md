@@ -18,6 +18,7 @@
        <td valign="top" width="50%">
     
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 ```text
 No Activity tracked this Week
 ```
