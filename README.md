@@ -15,7 +15,7 @@
                 <li>🌱 I am a college student and a bloger</li>
             </ul>
         </td>
-       <td valign="top" width="35%">
+       <td valign="center" width="35%">
     
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
@@ -24,7 +24,7 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 </td>
-<td valign="top" width="35%">
+<td valign="center" width="35%">
 <img src="https://github-readme-stats.vercel.app/api?username=hellokuls" alt="vistors" />
 </td></tr>
 </table>
