@@ -10,7 +10,6 @@
             </p>
             <ul>
                 <li>🌱 I am a college student and a bloger</li>
-             
             </ul>
         </td>
        <td valign="top" width="50%">
