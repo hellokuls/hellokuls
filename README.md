@@ -18,15 +18,24 @@
        <td valign="top" width="50%">
     
 <!--START_SECTION:waka-->
-📊 **My personal infomation** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-My blog : http://www.kuls6.top
+💬 Programming Languages: 
+Markdown                 3 hrs 46 mins       ███████████░░░░░░░░░░░░░░   43.65% 
+Other                    2 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   24.6% 
+Scala                    1 hr 55 mins        █████░░░░░░░░░░░░░░░░░░░░   22.26% 
+Bash                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.5% 
+YAML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.34%
 
-WeChat official account：Python进击者、Kuls
+🔥 Editors: 
+VS Code                  8 hrs 39 mins       █████████████████████████   100.0%
+
+💻 Operating System: 
+Linux                    6 hrs 3 mins        █████████████████░░░░░░░░   69.99% 
+Windows                  2 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   30.01%
+
 ```
-![info](https://github-readme-stats.vercel.app/api?username=hellokuls&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
-
 <!--END_SECTION:waka-->
 </td></tr>
 </table>
