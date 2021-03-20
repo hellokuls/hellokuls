@@ -1,8 +1,5 @@
 <h2 align="center"> Hi, I'm Kuls 👋 </h2>
-
-<table>
-    <tr>
-        <td valign="center" width="30%">
+        <p align="center">
             <p align="center">
                 <img src=" https://avatars.githubusercontent.com/u/42165104?s=460&u=5c7fbf0bce7d4b38a15a44676e6f64b529e47598&v=4"/>
             </p>
@@ -14,8 +11,8 @@
             <ul>
                 <li>🌱 I am a college student and a bloger</li>
             </ul>
-        </td>
-       <td valign="center" width="35%">
+        </p>
+
     
 <!--START_SECTION:waka-->
 ```text
@@ -23,10 +20,9 @@ Python                15 mins         █████████████▓
 Java                  11 mins         ██████████▒░░░░░░░░░░░░░░   41.65 % 
 ```
 <!--END_SECTION:waka-->
-</td>
-<td valign="center" width="35%">
+
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=hellokuls" alt="vistors" />
-</td></tr>
-</table>
+</p>
 
 
