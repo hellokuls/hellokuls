@@ -17,10 +17,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 April, 2021 - 08 April, 2021
+Week: 02 April, 2021 - 09 April, 2021
 
-Java   3 hrs 49 mins   ████████████████████████▓   98.31 % 
-YAML   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Java   3 hrs 29 mins   ████████████████████████▓   98.14 % 
+YAML   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 ```
 <!--END_SECTION:waka-->
 
