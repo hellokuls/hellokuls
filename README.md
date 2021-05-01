@@ -17,10 +17,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 April, 2021 - 29 April, 2021
+Week: 23 April, 2021 - 30 April, 2021
 
-Java     59 mins         █████████████████░░░░░░░░   68.56 % 
-Python   27 mins         ████████░░░░░░░░░░░░░░░░░   31.44 % 
+Python   27 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
