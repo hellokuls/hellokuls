@@ -17,10 +17,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 May, 2021 - 15 May, 2021
+Week: 09 May, 2021 - 16 May, 2021
 
-Java         1 hr 10 mins    █████████████████████░░░░   84.41 % 
-Python       12 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+Java         1 hr 10 mins    █████████████████▒░░░░░░░   69.23 % 
+Python       30 mins         ███████▓░░░░░░░░░░░░░░░░░   30.27 % 
 ```
 <!--END_SECTION:waka-->
 
