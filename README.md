@@ -17,12 +17,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 May, 2021 - 24 May, 2021
+Week: 18 May, 2021 - 25 May, 2021
 
-Python       5 hrs 24 mins   █████████████▓░░░░░░░░░░░   55.22 % 
-HTML         3 hrs 58 mins   ██████████░░░░░░░░░░░░░░░   40.53 % 
-JavaScript   17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-Markdown     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Python       3 hrs 13 mins   ███████████████▒░░░░░░░░░   60.71 % 
+HTML         2 hrs 3 mins    █████████▓░░░░░░░░░░░░░░░   38.81 % 
+JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 ```
 <!--END_SECTION:waka-->
 
