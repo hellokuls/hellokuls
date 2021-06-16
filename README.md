@@ -17,10 +17,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 June, 2021 - 14 June, 2021
+Week: 08 June, 2021 - 15 June, 2021
 
-Python   26 mins         ████████████████▓░░░░░░░░   66.96 % 
-Java     13 mins         ████████▒░░░░░░░░░░░░░░░░   32.82 % 
+Python   26 mins         ███████████████████▒░░░░░   77.03 % 
+Java     7 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.97 % 
 ```
 <!--END_SECTION:waka-->
 
