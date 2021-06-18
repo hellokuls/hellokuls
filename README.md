@@ -17,10 +17,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 June, 2021 - 16 June, 2021
-
-Python   24 mins         ██████████████████▓░░░░░░   75.29 % 
-Java     7 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.71 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
