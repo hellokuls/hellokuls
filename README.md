@@ -17,10 +17,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 June, 2021 - 04 July, 2021
+Week: 29 June, 2021 - 05 July, 2021
 
-TOML   12 mins         ██████████████▓░░░░░░░░░░   59.07 % 
-YAML   8 mins          ██████████▒░░░░░░░░░░░░░░   40.93 % 
+TOML   12 mins         ██████████████▒░░░░░░░░░░   57.09 % 
+YAML   9 mins          ██████████▓░░░░░░░░░░░░░░   42.91 % 
 ```
 <!--END_SECTION:waka-->
 
