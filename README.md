@@ -17,7 +17,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 July, 2021 - 07 July, 2021
+Week: 02 July, 2021 - 08 July, 2021
 
 TOML   37 mins         ████████████████▒░░░░░░░░   65.73 % 
 YAML   19 mins         ████████▓░░░░░░░░░░░░░░░░   34.27 % 
