@@ -17,10 +17,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 July, 2021 - 12 July, 2021
-
-TOML   25 mins         █████████████████▓░░░░░░░   70.99 % 
-YAML   10 mins         ███████▒░░░░░░░░░░░░░░░░░   29.01 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
