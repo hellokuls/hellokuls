@@ -17,7 +17,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 09 July, 2021 - 15 July, 2021
+
+Java         4 hrs 43 mins   ██████████████████████▓░░   90.53 % 
+Git Config   16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+XML          12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
 ```
 <!--END_SECTION:waka-->
 
