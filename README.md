@@ -17,7 +17,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 July, 2021 - 16 July, 2021
+Week: 11 July, 2021 - 17 July, 2021
 
 Java         4 hrs 43 mins   ██████████████████████▓░░   90.53 % 
 Git Config   16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
