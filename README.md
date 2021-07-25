@@ -17,7 +17,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 July, 2021 - 23 July, 2021
+Week: 18 July, 2021 - 24 July, 2021
 
 Java         18 hrs 36 mins  ██████████████████████▒░░   89.74 % 
 XML          1 hr 8 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
