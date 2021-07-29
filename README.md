@@ -17,13 +17,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 July, 2021 - 27 July, 2021
+Week: 22 July, 2021 - 28 July, 2021
 
-Java         17 hrs 12 mins  █████████████████████▒░░░   85.35 % 
-XML          1 hr 41 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-Properties   59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-Git Config   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-JavaScript   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Java         18 hrs 52 mins  █████████████████████▒░░░   85.59 % 
+XML          1 hr 55 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+Properties   59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+Git Config   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+JavaScript   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 ```
 <!--END_SECTION:waka-->
 
