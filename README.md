@@ -17,13 +17,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 July, 2021 - 03 August, 2021
+Week: 29 July, 2021 - 04 August, 2021
 
-Java         20 hrs 12 mins  ██████████████████▒░░░░░░   73.89 % 
-XML          2 hrs 35 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-TypeScript   2 hrs 13 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-JSON         57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-Properties   28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Java         18 hrs 47 mins  ██████████████████▒░░░░░░   72.95 % 
+XML          2 hrs 14 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+TypeScript   2 hrs 13 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+JSON         57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+Properties   28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 ```
 <!--END_SECTION:waka-->
 
