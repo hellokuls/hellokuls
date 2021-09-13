@@ -17,7 +17,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 September, 2021 - 11 September, 2021
+Week: 06 September, 2021 - 12 September, 2021
 
 Text     44 mins         ███████████████████████░░   92.13 % 
 Python   3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
