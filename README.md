@@ -17,10 +17,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 September, 2021 - 14 September, 2021
-
-Text     44 mins         ███████████████████████░░   92.13 % 
-Python   3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
