@@ -17,12 +17,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 October, 2021 - 23 October, 2021
+Week: 18 October, 2021 - 24 October, 2021
 
-Python       7 hrs 28 mins   ██████████████████████▓░░   91.32 % 
-Solidity     35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Python     4 hrs 23 mins   ██████████████████████░░░   87.44 % 
+Solidity   35 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+Other      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 ```
 <!--END_SECTION:waka-->
 
