@@ -17,10 +17,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 November, 2021 - 11 November, 2021
+Week: 06 November, 2021 - 12 November, 2021
 
-Python       49 mins         ███████████████████▓░░░░░   78.59 % 
-Java         12 mins         █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+Python       1 hr 25 mins    ████████████████████░░░░░   80.08 % 
+Java         20 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.99 % 
 ```
 <!--END_SECTION:waka-->
 
