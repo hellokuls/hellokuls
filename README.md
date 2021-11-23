@@ -17,12 +17,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 November, 2021 - 21 November, 2021
+Week: 16 November, 2021 - 22 November, 2021
 
-Java             3 hrs 22 mins   █████████████████▒░░░░░░░   69.05 % 
-Python           46 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-XML              39 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-GitIgnore file   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Java             3 hrs 13 mins   ██████████████████░░░░░░░   71.57 % 
+XML              39 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Python           33 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+GitIgnore file   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 ```
 <!--END_SECTION:waka-->
 
