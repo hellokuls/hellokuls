@@ -17,10 +17,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 November, 2021 - 04 December, 2021
+Week: 29 November, 2021 - 05 December, 2021
 
-Java       4 hrs 56 mins   █████████████████████████   99.58 % 
-Markdown   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Java         6 hrs 53 mins   ████████████████████████▒   97.52 % 
+Python       9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 ```
 <!--END_SECTION:waka-->
 
