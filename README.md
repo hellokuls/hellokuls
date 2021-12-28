@@ -17,11 +17,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 December, 2021 - 26 December, 2021
+Week: 21 December, 2021 - 27 December, 2021
 
-Python     2 hrs 14 mins   ██████████████████████▓░░   90.15 % 
-YAML       12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-JSX        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Python   44 mins         ████████████████████████▒   97.41 % 
+HTML     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 ```
 <!--END_SECTION:waka-->
 
