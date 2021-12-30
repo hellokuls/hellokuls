@@ -17,12 +17,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 December, 2021 - 28 December, 2021
+Week: 23 December, 2021 - 29 December, 2021
 
-Python       58 mins         ███████████████████░░░░░░   76.08 % 
-HTML         14 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.48 % 
-Markdown     2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Python       56 mins         ██████████████████▓░░░░░░   75.28 % 
+HTML         14 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.09 % 
+Markdown     2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
 ```
 <!--END_SECTION:waka-->
 
