@@ -17,12 +17,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 December, 2021 - 02 January, 2022
+Week: 28 December, 2021 - 03 January, 2022
 
-Python       2 hrs 49 mins   ██████████████████████▒░░   89.70 % 
-HTML         14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
-Markdown     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Python       2 hrs 35 mins   ██████████████████████▒░░   89.15 % 
+HTML         13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+Markdown     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 ```
 <!--END_SECTION:waka-->
 
