@@ -17,12 +17,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 December, 2021 - 03 January, 2022
+Week: 29 December, 2021 - 04 January, 2022
 
-Python       2 hrs 35 mins   ██████████████████████▒░░   89.15 % 
-HTML         13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-Markdown     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Python     2 hrs 7 mins    ████████████████████████▓   98.84 % 
 ```
 <!--END_SECTION:waka-->
 
