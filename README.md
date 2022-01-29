@@ -17,11 +17,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 January, 2022 - 27 January, 2022
-
-Python       2 hrs 10 mins   █████████████████████░░░░   83.34 % 
-JavaScript   15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-HTML         11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
