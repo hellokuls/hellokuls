@@ -16,11 +16,13 @@
 - ⚡ My wechat ID is LLLLLLS123
 
 <!--START_SECTION:waka-->
-```text
-From: 19 February, 2022 - To: 26 February, 2022
 
-Python   10 mins         █████████████████████████   100.00 % 
+```text
+From: 20 February 2022 - To: 27 February 2022
+
+Python   10 mins         █████████████████████████   100.00 %
 ```
+
 <!--END_SECTION:waka-->
 
 ![info](https://github-readme-stats.vercel.app/api?username=hellokuls&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
