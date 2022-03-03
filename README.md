@@ -18,7 +18,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 24 February 2022 - To: 03 March 2022
+
+Java   11 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
