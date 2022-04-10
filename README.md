@@ -18,7 +18,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 03 April 2022 - To: 10 April 2022
+
+Python   10 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
