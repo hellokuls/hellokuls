@@ -18,14 +18,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 April 2022 - To: 21 April 2022
-
-Java         3 mins          █████████████████████░░░░   83.69 %
-YAML         0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.12 %
-HTML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
-SVG          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
