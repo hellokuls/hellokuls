@@ -10,9 +10,7 @@
     </p>
 </p>
 
-- 🔭 I’m a college student and a bloger has 20000 fans.
-- 🌱 I’m currently learning **Java and Algorithms**
-- 📫 How to reach me: [My Bloger](http://www.kuls6.top) 
+- 🔭 I’m a .NET&Java&Python developer and a bloger has 20000+ fans.
 - ⚡ My wechat ID is LLLLLLS123
 
 <!--START_SECTION:waka-->
