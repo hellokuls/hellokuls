@@ -11,7 +11,6 @@
 </p>
 
 - 🔭 I’m a .NET&Java&Python developer and a bloger has 20000+ fans.
-- ⚡ My wechat ID is LLLLLLS123
 
 <!--START_SECTION:waka-->
 
