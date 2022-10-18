@@ -15,7 +15,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 11 October 2022 - To: 18 October 2022
+
+C#      41 mins         ███████████████████░░░░░░   75.37 %
+Other   13 mins         ██████░░░░░░░░░░░░░░░░░░░   24.00 %
 ```
 
 <!--END_SECTION:waka-->
