@@ -15,11 +15,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 November 2022 - To: 09 November 2022
+From: 03 November 2022 - To: 10 November 2022
 
-C#       7 hrs 42 mins   █████████████████▒░░░░░░░   69.90 %
-XML      1 hr 43 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.64 %
-Other    1 hr            ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
+C#      6 hrs 22 mins   █████████████████▒░░░░░░░   69.49 %
+XML     1 hr 21 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.70 %
+Other   57 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 %
 ```
 
 <!--END_SECTION:waka-->
