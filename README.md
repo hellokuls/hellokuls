@@ -10,7 +10,7 @@
     </p>
 </p>
 
-- 🔭 I’m a .NET&Java&Python developer and a bloger has 20000+ fans.
+- 🔭 .NET&Java&Python developer
 
 <!--START_SECTION:waka-->
 
