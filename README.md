@@ -15,7 +15,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 27 December 2022 - To: 03 January 2023
+
+Go      2 mins          ████████████████████████▒   97.45 %
+Other   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
 ```
 
 <!--END_SECTION:waka-->
