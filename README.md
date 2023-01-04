@@ -10,7 +10,8 @@
     </p>
 </p>
 
-- 🔭 .NET&Java&Python developer
+- Program Language：c#、Java、Go、Python
+- Backend Software Engineer
 
 <!--START_SECTION:waka-->
 
