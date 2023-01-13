@@ -16,11 +16,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 January 2023 - To: 12 January 2023
+From: 06 January 2023 - To: 13 January 2023
 
-C#      45 mins         ███████████████████░░░░░░   76.02 %
-Go      14 mins         ██████░░░░░░░░░░░░░░░░░░░   23.80 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+C#      45 mins         █████████████████████████   99.77 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
