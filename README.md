@@ -16,7 +16,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 January 2023 - To: 13 January 2023
+From: 07 January 2023 - To: 14 January 2023
 
 C#      45 mins         █████████████████████████   99.77 %
 Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
