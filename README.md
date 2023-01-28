@@ -16,7 +16,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 21 January 2023 - To: 28 January 2023
+
+C#                  1 hr 1 min      ██████████████▒░░░░░░░░░░   57.26 %
+Go                  35 mins         ████████▒░░░░░░░░░░░░░░░░   32.72 %
+Roff                6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
+Config              3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+GitIgnore file      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+XML                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
