@@ -16,14 +16,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 February 2023 - To: 13 February 2023
+From: 07 February 2023 - To: 14 February 2023
 
-C#               5 hrs 44 mins   ██████████████████▒░░░░░░   73.13 %
-JSON             47 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.15 %
-HTML             32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
-Config           18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
-TypeScript       14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
-CSHTML           6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+C#               5 hrs 39 mins   █████████████████░░░░░░░░   67.59 %
+Other            47 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
 ```
 
 <!--END_SECTION:waka-->
