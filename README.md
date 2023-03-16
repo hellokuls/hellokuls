@@ -11,6 +11,7 @@
 </p>
 
 - Program Language：c#、Java、Go、Python
+- Learning: Swift
 - Backend Software Engineer
 
 <!--START_SECTION:waka-->
