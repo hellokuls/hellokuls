@@ -17,7 +17,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 March 2023 - To: 31 March 2023
+From: 25 March 2023 - To: 01 April 2023
 
 C#               18 hrs 6 mins   ███████████████████████▓░   94.28 %
 JSON             32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
