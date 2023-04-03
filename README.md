@@ -13,6 +13,7 @@
 - Program Language：c#、Java、Go、Python
 - Learning: Swift
 - Backend Software Engineer
+- I want to find a new job.
 
 <!--START_SECTION:waka-->
 
