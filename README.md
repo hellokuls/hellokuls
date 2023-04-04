@@ -12,8 +12,7 @@
 
 - Program Language：C#、Java、Go、Python
 - Learning: Swift
-- Backend Software Engineer. (Of course, I can do anything because I learn IT knowledge relatively quickly.)
-- I want to find a new job.
+- Backend Software Engineer.
 - Email: kuls666888@gmail.com
 - Wechat: LLLLLLS123
 
