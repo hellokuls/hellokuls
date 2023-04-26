@@ -19,11 +19,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 April 2023 - To: 25 April 2023
+From: 19 April 2023 - To: 26 April 2023
 
-C#     6 hrs 19 mins   ████████████████████████░   96.53 %
-JSON   13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
-XML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
