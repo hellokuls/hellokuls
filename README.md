@@ -19,7 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 August 2023 - To: 01 September 2023
+From: 26 August 2023 - To: 02 September 2023
 
 C#                4 hrs 31 mins   ███████████████████████▓░   94.72 %
 Protocol Buffer   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
