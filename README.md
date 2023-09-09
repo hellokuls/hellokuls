@@ -19,7 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 September 2023 - To: 08 September 2023
+From: 02 September 2023 - To: 09 September 2023
 
 C#               5 hrs 46 mins   ██████████████████▓░░░░░░   74.32 %
 JSON             1 hr 15 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.13 %
