@@ -19,13 +19,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 September 2023 - To: 11 September 2023
+From: 05 September 2023 - To: 12 September 2023
 
-C#               3 hrs 15 mins   ███████████████▒░░░░░░░░░   60.70 %
-JSON             1 hr 21 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.46 %
-XML              12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
-GitIgnore file   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
-Bash             9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+C#               3 hrs 48 mins   ████████████▒░░░░░░░░░░░░   48.79 %
+JSON             1 hr 30 mins    █████░░░░░░░░░░░░░░░░░░░░   19.38 %
+XML              1 hr 10 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.06 %
+Csproj           51 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.00 %
+GitIgnore file   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
 ```
 
 <!--END_SECTION:waka-->
