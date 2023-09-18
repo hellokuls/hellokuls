@@ -11,7 +11,6 @@
 </p>
 
 - Program Language：C#、Java、Go、Python
-- Learning: Swift
 - Backend Software Engineer.
 - Email: kuls666888@gmail.com
 - Wechat: LLLLLLS123
