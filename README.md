@@ -18,12 +18,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 September 2023 - To: 02 October 2023
+From: 26 September 2023 - To: 03 October 2023
 
-C#       3 hrs 15 mins   ███████████████████████▒░   93.94 %
-JSON     11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
-XML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-Csproj   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+C#     1 hr 45 mins    ██████████████████████▒░░   89.85 %
+JSON   11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.15 %
 ```
 
 <!--END_SECTION:waka-->
