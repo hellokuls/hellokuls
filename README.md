@@ -18,10 +18,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 November 2023 - To: 14 November 2023
+From: 09 November 2023 - To: 16 November 2023
 
-C#     27 mins         █████████████████████████   99.98 %
-JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+C#                1 hr 25 mins    ███████████████████████░░   92.01 %
+JSON              3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
+Protocol Buffer   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+protobuf          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+Csproj            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
 <!--END_SECTION:waka-->
