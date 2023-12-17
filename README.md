@@ -11,7 +11,7 @@
 </p>
 
 - Program Language：C#、Java、Go、Python
-- Learning Program Language: js
+- Learning Program Language: JS
 - Backend Software Engineer.
 - Email: kuls666888@gmail.com
 - Wechat: LLLLLLS123
