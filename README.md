@@ -19,7 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 December 2023 - To: 20 December 2023
+From: 14 December 2023 - To: 21 December 2023
 
 JavaScript       3 hrs 50 mins   ███████████████████░░░░░░   76.62 %
 TypeScript       42 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.07 %
