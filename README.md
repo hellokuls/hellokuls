@@ -19,12 +19,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 May 2024 - To: 19 May 2024
+From: 13 May 2024 - To: 20 May 2024
 
-textmate     0 secs          █████████████████▒░░░░░░░   69.23 %
-JavaScript   0 secs          ██████▒░░░░░░░░░░░░░░░░░░   25.42 %
-TypeScript   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Python       2 hrs 18 mins   ████████████████████░░░░░   79.68 %
+JavaScript   15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
+JSON         13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
+TypeScript   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
 ```
 
 <!--END_SECTION:waka-->
