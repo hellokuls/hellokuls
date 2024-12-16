@@ -19,11 +19,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 December 2024 - To: 15 December 2024
+From: 09 December 2024 - To: 16 December 2024
 
-TypeScript   8 hrs 2 mins    █████████████████▓░░░░░░░   70.73 %
-Python       3 hrs 18 mins   ███████▒░░░░░░░░░░░░░░░░░   29.12 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+TypeScript   5 hrs 38 mins   ████████████████░░░░░░░░░   64.14 %
+Python       3 hrs 8 mins    █████████░░░░░░░░░░░░░░░░   35.83 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
