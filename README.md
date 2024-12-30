@@ -19,13 +19,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 December 2024 - To: 29 December 2024
+From: 23 December 2024 - To: 30 December 2024
 
-Python       5 hrs 37 mins   ██████████████░░░░░░░░░░░   56.08 %
-TypeScript   2 hrs 46 mins   ███████░░░░░░░░░░░░░░░░░░   27.69 %
-JavaScript   58 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.66 %
-JSON         37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+TypeScript   4 hrs 1 min     ████████████░░░░░░░░░░░░░   48.58 %
+Python       3 hrs 38 mins   ███████████░░░░░░░░░░░░░░   43.92 %
+JSON         35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
+JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+TOML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
