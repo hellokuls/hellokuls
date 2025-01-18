@@ -19,7 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 January 2025 - To: 17 January 2025
+From: 11 January 2025 - To: 18 January 2025
 
 TypeScript   9 hrs 13 mins   ████████████░░░░░░░░░░░░░   47.81 %
 Python       6 hrs 51 mins   █████████░░░░░░░░░░░░░░░░   35.60 %
