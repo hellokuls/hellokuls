@@ -10,9 +10,8 @@
     </p>
 </p>
 
-- Program Language：C#、Java、Go、Python
-- Learning Program Language: JS
-- Backend Software Engineer.
+- Program Language：Python、Node.js、C#、Java
+- Full Stack Engineer.
 - Email: kuls666888@gmail.com
 - Wechat: LLLLLLS123
 
