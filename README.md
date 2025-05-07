@@ -18,11 +18,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 April 2025 - To: 06 May 2025
+From: 30 April 2025 - To: 07 May 2025
 
-JavaScript   4 hrs 25 mins   ████████████████████▓░░░░   82.55 %
-TypeScript   52 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.44 %
-Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
