@@ -18,12 +18,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 May 2025 - To: 26 May 2025
+From: 20 May 2025 - To: 27 May 2025
 
-TypeScript   13 hrs 5 mins   █████████████████▒░░░░░░░   69.15 %
-JavaScript   5 hrs 25 mins   ███████░░░░░░░░░░░░░░░░░░   28.62 %
+TypeScript   12 hrs 57 mins  █████████████████░░░░░░░░   68.28 %
+JavaScript   5 hrs 35 mins   ███████▒░░░░░░░░░░░░░░░░░   29.48 %
 Docker       17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-YAML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+YAML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
