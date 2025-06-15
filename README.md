@@ -18,7 +18,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 June 2025 - To: 14 June 2025
+From: 08 June 2025 - To: 15 June 2025
 
 TypeScript   18 hrs 15 mins  ██████████████████████░░░   88.00 %
 Other        45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
