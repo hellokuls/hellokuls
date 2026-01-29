@@ -9,8 +9,7 @@
     </p>
 </p>
 
-- Program Language：Python、Node.js、C#、Java
-- Full Stack Engineer.
+- Program Language：TypeScript、Python、Node.js、C#、Java...
 - Email: kuls666888@gmail.com
 - Wechat: LLLLLLS123
 
