@@ -9,7 +9,7 @@
     </p>
 </p>
 
-- Program Language：TypeScript、Python、Node.js、C#、Java...
+- Program Language：TypeScript、Python、C#、Java...
 - Email: kuls666888@gmail.com
 - Wechat: LLLLLLS123
 
